@@ -1,0 +1,10 @@
+= Rails 3 Legacy Scripts
+
+Legacy scripts for Rails 3. ./script/server, ./script/generate ./script/console.
+
+Tiny wrappers around ./script/rails
+
+= Quickstart
+
+Place all files from script/ directory into your RAILS_ROOT/script directory.
+
