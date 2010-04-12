@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
 
-ARGV.insert(0, 'generate')
+ARGV.insert(0, 'console')
 
 require File.join(File.expand_path('../..',  __FILE__), 'script', 'rails3_command')
